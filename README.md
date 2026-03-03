@@ -2,12 +2,8 @@
 
 🌱 I’m currently learning python,java and web development<br>
 🤔 I’m looking for help with learning through cybersecurity<br>
-📫 How to reach me:You can reach me through my Linkedin
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Vbhat5/count.svg" alt="Visitor's Count" />
-</div>
+📫 How to reach me:You can reach me through my Linkedin<br><br>
+<img src="https://komarev.com/ghpvc/?username=Vbhat5&label=Profile%20views&color=0e75b6&style=flat" alt="Vbhat5" />
 <!--
 **Vbhat5/Vbhat5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
