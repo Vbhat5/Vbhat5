@@ -2,7 +2,9 @@
 
 🌱 I’m currently learning python,java and web development<br>
 🤔 I’m looking for help with learning through cybersecurity<br>
-📫 How to reach me:You can reach me through my Linkedin<br><br>
+📫 How to reach me: <a href="https://www.linkedin.com/in/vaibhav-b-83a4a3379/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/>
+</a><br><br>
 <img src="https://komarev.com/ghpvc/?username=Vbhat5&label=Profile%20views&color=0e75b6&style=flat" alt="Vbhat5" />
 <!--
 **Vbhat5/Vbhat5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
