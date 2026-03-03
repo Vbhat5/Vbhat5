@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🌱 I’m currently learning python,java and web development<br>
+🤔 I’m looking for help with learning through cybersecurity<br>
+📫 How to reach me:You can reach me through my Linkedin
+
+
 <!--
 **Vbhat5/Vbhat5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
